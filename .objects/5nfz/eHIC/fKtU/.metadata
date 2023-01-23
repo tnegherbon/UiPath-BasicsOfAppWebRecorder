@@ -1,0 +1,13 @@
+﻿{
+  "Id": "fKtUHbDPF0KCF8r19qNYqA",
+  "Reference": "fkAghwKJlkmWT-A3Chpxlg/fKtUHbDPF0KCF8r19qNYqA",
+  "ParentRef": "fkAghwKJlkmWT-A3Chpxlg/eHICuQSMDUiezhPUnyNzlg",
+  "Name": "Edge: UiBank",
+  "Type": "Screen",
+  "Created": "2023-01-23T22:24:43.2988377Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-23T22:24:43.2988377Z"
+}

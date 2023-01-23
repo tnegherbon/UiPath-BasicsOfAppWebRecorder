@@ -1,0 +1,12 @@
+﻿{
+  "Id": "5nfz204ZgEWSjANKnvrO8Q",
+  "Reference": "fkAghwKJlkmWT-A3Chpxlg/5nfz204ZgEWSjANKnvrO8Q",
+  "Name": "Edge: UiBank",
+  "Type": "App",
+  "Created": "2023-01-23T22:24:43.2706351Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-23T22:24:43.2706351Z"
+}
